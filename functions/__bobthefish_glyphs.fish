@@ -16,7 +16,7 @@ function __bobthefish_glyphs -S -d 'Define glyphs used by bobthefish'
 
   # Python glyphs
   set -x superscript_glyph       \u00B9 \u00B2 \u00B3
-  set -x virtualenv_glyph        \u25F0
+  set -x virtualenv_glyph        \u229B
   set -x pypy_glyph              \u1D56
 
   set -x ruby_glyph              ''
@@ -59,7 +59,7 @@ function __bobthefish_glyphs -S -d 'Define glyphs used by bobthefish'
     set detached_glyph   \uF417
     set tag_glyph        \uF412
 
-    set virtualenv_glyph \uE73C ' '
+    set virtualenv_glyph \uF820 ''
     set ruby_glyph       \uE791 ' '
     set go_glyph         \uE626 ' '
 
